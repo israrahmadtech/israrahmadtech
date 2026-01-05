@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://israrahmadtech.vercel.app](israrahmadtech.vercel.app)
+- 👨‍💻 All of my projects are available at [israrahmadtech.vercel.app](israrahmadtech.vercel.app)
 
 - 📫 How to reach me **israrahmadtech@gmail.com**
 
