@@ -1,77 +1,28 @@
-# Hi, I'm Israr Ahmad 👋
+<h1 align="center">Hi 👋, I'm Israr Ahmad</h1>
+<h3 align="center">A passionate frontend React.js, Next.js developer & javascript enthusiast</h3>
 
-**Frontend / Full-Stack Developer (React.js & Next.js)**  
-Building scalable, modern, and production-ready web applications.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=israrahmadtech" alt="israrahmadtech" /></a> </p>
 
-🔹 React & Next.js specialist  
-🔹 Paid freelance & real-world project experience  
-🔹 Clean UI, maintainable code, client-focused mindset  
+- 🌱 I’m currently learning **MERN Stack & App Development**
 
-🌐 **Portfolio:** https://israrahmadtech.vercel.app  
-💼 **LinkedIn:** https://www.linkedin.com/in/israr-ahmad-tech  
-📧 **Email:** israrahmadtech@gmail.com  
+- 👨‍💻 All of my projects are available at [israrahmadtech.vercel.app](israrahmadtech.vercel.app)
 
----
+- 💬 Ask me about **Javascript, React.js & Next.js**
 
-## 🧩 Tech Stack
+- 📫 How to reach me **israrahmadtech@gmail.com**
 
+- 📄 Know about my experiences [israrahmadtech.vercel.app/resume](israrahmadtech.vercel.app/resume)
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+<a href="https://linkedin.com/in/israrahmadtech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="israrahmadtech" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-## 💼 Featured Projects
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=israrahmadtech&show_icons=true&locale=en&layout=compact" alt="israrahmadtech" /></p>
 
-### 🛒 Shark Nutrition — Full-Stack E-Commerce (Paid Project)
-🔗 https://sharknutritionpk.store  
-**Tech:** React.js, Supabase, Tailwind CSS  
-- Production-ready e-commerce platform  
-- Real client requirements & deployment  
-- Authentication, orders & admin flows  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=israrahmadtech&show_icons=true&locale=en" alt="israrahmadtech" /></p>
 
-### 🍔 FoodGala — Full-Stack Food Ordering App
-🔗 https://foodgala.vercel.app  
-**Tech:** React.js, Supabase, Tailwind CSS  
-- Real-time cart & checkout  
-- Auth & database integration  
-- Scalable architecture  
-
-### 🛍️ ShopNexa — Fully Functional E-Store
-🔗 https://shopnexa-israr.vercel.app  
-**Tech:** React.js  
-- Complete shopping flow  
-- Responsive & reusable components  
-
----
-
-## 📊 GitHub Activity
-
-<table>
-<tr>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api?username=israrahmadtech&show_icons=true&theme=default&hide_border=true" />
-
-</td>
-<td>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=israrahmadtech&theme=default&hide_border=true" />
-
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=israrahmadtech&layout=compact&hide_border=true" />
-
----
-
-⭐ Open to freelance work, collaborations, and impactful projects
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=israrahmadtech&" alt="israrahmadtech" /></p>
