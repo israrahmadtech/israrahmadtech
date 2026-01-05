@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://israrahmadtech.vercel.app](israrahmadtech.vercel.app)
 
