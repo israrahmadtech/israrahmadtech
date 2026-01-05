@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Muhammad Bilal</h1>
+<h1 align="center">Hi 👋, I'm Israr Ahmad</h1>
 
 <div align="center"> <img src="GithubBanner.png"> </div>
-<h3 align="center">Freelance Web Developer | Crafting Professional Websites to Enhance Your Online Presence | MERN Stack & Full Stack Expert</h3>
+<h3 align="center">Freelance Web Developer | Crafting Professional Websites to Enhance Your Online Presence | React.js & Next.js Expert</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
