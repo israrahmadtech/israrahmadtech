@@ -1,91 +1,85 @@
-<h1 align="center">Hi 👋, I'm Muhammad Bilal</h1>
+<h1 align="center">Hi, I'm Israr Ahmad</h1>
 
-<div align="center"> <img src="GithubBanner.png"> </div>
-<h3 align="center">Freelance Web Developer | Crafting Professional Websites to Enhance Your Online Presence | MERN Stack & Full Stack Expert</h3>
+<div align="center">
+  <img src="GithubBanner.png" alt="Israr Ahmad GitHub Banner" />
+</div>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<h3 align="center">Frontend Developer focused on React, Next.js, TypeScript, and production-ready MERN applications</h3>
 
-- 🌱 I’m currently learning **MERN Stack**
-
-- 👨‍💻 All of my projects are available at [https://israrahmadtech.vercel.app](israrahmadtech.vercel.app)
-
-- 📫 How to reach me **israrahmadtech@gmail.com**
-
-- ⚡ Fun fact **I like to help others**
-
-<h3 align="left">Skills</h3>
-
-<p align="left">
-React.js • Next.js • JavaScript • TypeScript • Tailwind CSS • Supabase • HTML • CSS • Git • Bootstrap
+<p align="center">
+  Currently working at <strong>Apptex Software Solutions</strong> as a Frontend Developer
 </p>
 
-<h3 align="left">Connect with me</h3>
+<p align="center">
+  <a href="https://github.com/israrahmadtech">GitHub</a> �
+  <a href="https://www.linkedin.com/in/israr-ahmad-tech">LinkedIn</a> �
+  <a href="mailto:israrahmadtech@gmail.com">Email</a> �
+  <a href="https://israrahmadtech.vercel.app">Portfolio</a>
+</p>
+
+## About Me
+
+- Frontend developer with strong hands-on experience in admin dashboards, reusable UI systems, and real-world business applications.
+- Working deeply with `React.js`, `Next.js`, `TypeScript`, `Tailwind CSS`, `Shadcn UI`, and modern frontend architecture.
+- Expanding backend strength with `Node.js`, `Express.js`, `MongoDB`, `Redis`, authentication flows, APIs, and socket-based features.
+- Focused on becoming a stronger full stack MERN developer with production-level frontend depth and solid backend engineering skills.
+
+## Current Focus
+
+- Building clean, scalable full stack applications
+- Improving backend architecture and API design skills
+- Writing modular, maintainable, product-focused code
+- Growing from frontend-heavy developer to well-rounded MERN stack engineer
+
+## Tech Stack
+
+### Frontend
+
+`HTML5` `CSS3` `JavaScript` `TypeScript` `React.js` `Next.js` `Tailwind CSS` `Shadcn UI` `React Hook Form` `Yup` `React Router DOM` `Axios` `TanStack Query` `Redux Toolkit` `Chart.js` `GSAP` `Lucide React` `React Icons`
+
+### Backend
+
+`Node.js` `Express.js` `JWT` `Bcryptjs` `CORS` `Dotenv` `Mongoose` `Redis` `Socket.io`
+
+### Database & Services
+
+`MongoDB Atlas` `Supabase` `Firebase` `Cloudinary`
+
+### Tools
+
+`Git` `GitHub` `VS Code` `Prettier`
+
+## What I Build
+
+- Admin dashboards with modular architecture
+- Full stack MERN applications
+- Authentication and role-based systems
+- Reusable component-based frontend systems
+- Real-time features with sockets
+- Responsive business and portfolio websites
+
+## Working Style
+
+- Clean, readable, minimal code
+- Reusable components over duplication
+- Service-layer separation for APIs and Firebase logic
+- Custom hooks for scalable data fetching
+- Practical solutions instead of overcomplicated abstractions
+
+## Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/israr-ahmad-tech" target="_blank">
-    <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="israr-ahmad-tech"
-      height="30"
-      width="40" />
+  <a href="https://www.linkedin.com/in/israr-ahmad-tech" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-
-  <a href="https://github.com/israrahmadtech" target="_blank">
-    <img align="center"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-      alt="israrahmadtech"
-      height="30"
-      width="40" />
+  <a href="https://github.com/israrahmadtech" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="40" />
   </a>
-
-  <a href="mailto:israrahmadtech@gmail.com" target="_blank">
-    <img align="center"
-      src="https://cdn.simpleicons.org/gmail"
-      alt="email"
-      height="30"
-      width="40" />
+  <a href="mailto:israrahmadtech@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/gmail" alt="Email" height="30" width="40" />
   </a>
 </p>
-<h3 align="left">Languages</h3>
 
-<table>
-  <tr>
-    <td align="center"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="56" height="56"/></a>
-      <br/>HTML5</td>
-    <td align="center"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="56" height="56"/></a>
-      <br/>CSS3</td>
-    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="56" height="56"/></a>
-      <br/>JavaScript</td>
-    <td align="center"><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="56" height="56"/></a>
-      <br/>TypeScript</td>
-  </tr>
-</table>
+## Profile Summary
 
-<div align="center" style="border-left: 1px solid #000; height: 150px;"></div>
-
-<h3 align="left">Tools</h3>
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="56" height="56"/>
-      <br/>React.js
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="56" height="56"/>
-      <br/>Next.js
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="56" height="56"/>
-      <br/>Tailwind CSS
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="56" height="56"/>
-      <br/>Bootstrap
-    </td>
-    <td align="center">
-      <img src="https://cdn.simpleicons.org/supabase" width="56" height="56"/>
-      <br/>Supabase
-    </td>
-  </tr>
-
+I build practical web products with a strong frontend foundation and a growing backend mindset. My goal is to keep shipping polished user experiences while strengthening APIs, databases, and system design to become a high-value full stack MERN developer.
