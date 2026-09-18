@@ -95,34 +95,6 @@ const israrAhmad = {
 
 <br/>
 
-## 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://cetcars.com">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=israrahmadtech&repo=car-rental-admin-panel&theme=radical&hide_border=true" />
-</a>
-<a href="https://penitans.com">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=israrahmadtech&repo=Penitans&theme=radical&hide_border=true" />
-</a>
-
-<a href="https://localcaregiver.net">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=israrahmadtech&repo=Local-Caregiver&theme=radical&hide_border=true" />
-</a>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=israrahmadtech&repo=MERN-Stack-Next-js-Road-Map&theme=radical&hide_border=true" />
-
-> ⚠️ Update the `repo=` values above to match your **exact** repository names on GitHub.
-
-</div>
-
-**CetCars** — Car Rental SaaS (`React` `Supabase`) — Multi-module Admin + Super Admin panel, dynamic contracts, auto-calculated payments, cascading deletes, RBAC.
-
-**Penitans** — Spiritual & Wellness Platform (`React` `TypeScript` `Firebase`) — Fixed 100+ frontend bugs across Seeker & Practitioner apps, real-time chat, booking flows.
-
-**Local Caregiver** — Caregiver Marketplace (`React` `Vite` `Tailwind v4`) — Complete UI redesign for a community caregiving platform.
-
-<br/>
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -138,20 +110,12 @@ const israrAhmad = {
 
 <br/>
 
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=israrahmadtech&theme=radical&no-frame=true&row=1&column=7" />
-</div>
-
-<br/>
-
 ## 🤝 Connect With Me
 
 <div align="center">
-<a href="https://www.linkedin.com/in/israr-ahmad-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35" width="45" /></a>
-<a href="https://github.com/israrahmadtech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" width="45" /></a>
-<a href="mailto:israrahmadtech@gmail.com"><img src="https://cdn.simpleicons.org/gmail/D14836" height="35" width="45" /></a>
+  <a href="https://www.linkedin.com/in/israr-ahmad-tech"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/israrahmadtech"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:israrahmadtech@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 <br/>
