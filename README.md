@@ -1,85 +1,161 @@
-<h1 align="center">Hi, I'm Israr Ahmad</h1>
-
 <div align="center">
-  <img src="GithubBanner.png" alt="Israr Ahmad GitHub Banner" />
+
+<img src="GithubBanner.png" alt="Israr Ahmad GitHub Banner" width="100%" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Israr+Ahmad+%F0%9F%91%8B;Full+Stack+MERN+%26+Next.js+Developer;Senior+Frontend+Developer+%40+Apptex;Building+Scalable%2C+Production-Ready+Apps" alt="Typing SVG" />
+
+<p>
+  <a href="https://www.linkedin.com/in/israr-ahmad-tech"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:israrahmadtech@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://israrahmadtech.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/israrahmadtech"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=israrahmadtech&label=Profile%20Views&color=a855f7&style=flat" />
+
 </div>
 
-<h3 align="center">Frontend Developer focused on React, Next.js, TypeScript, and production-ready MERN applications</h3>
+<br/>
 
-<p align="center">
-  Currently working at <strong>Apptex Software Solutions</strong> as a Frontend Developer
-</p>
+## 🚀 About Me
 
-<p align="center">
-  <a href="https://github.com/israrahmadtech">GitHub</a> �
-  <a href="https://www.linkedin.com/in/israr-ahmad-tech">LinkedIn</a> �
-  <a href="mailto:israrahmadtech@gmail.com">Email</a> �
-  <a href="https://israrahmadtech.vercel.app">Portfolio</a>
-</p>
+```ts
+const israrAhmad = {
+  role: "Senior Frontend Developer @ Apptex Software Solutions",
+  location: "Peshawar, Pakistan",
+  stack: ["React.js", "Next.js", "TypeScript", "Tailwind CSS", "Redux Toolkit", "GSAP"],
+  learning: ["Node.js", "Express.js", "MongoDB", "Redis", "Socket.io"],
+  currentGoal: "Becoming a well-rounded Full Stack MERN Engineer",
+  funFact: "Ships polished UIs, then goes hunting for backend depth",
+};
+```
 
-## About Me
+- 🔭 Building production frontends — admin dashboards, SaaS panels, and business/agency sites
+- 🌱 Leveling up backend engineering — APIs, auth flows, real-time features with sockets
+- 🎓 Certified Web Developer (SMIT Peshawar) | BS Software Engineering @ Virtual University
+- ⚡ Research-driven dev — uses AI-assisted tools (Antigravity) to move fast without cutting corners
+- 💬 Ask me about React, Next.js, Tailwind, GSAP animations, and Supabase
 
-- Frontend developer with strong hands-on experience in admin dashboards, reusable UI systems, and real-world business applications.
-- Working deeply with `React.js`, `Next.js`, `TypeScript`, `Tailwind CSS`, `Shadcn UI`, and modern frontend architecture.
-- Expanding backend strength with `Node.js`, `Express.js`, `MongoDB`, `Redis`, authentication flows, APIs, and socket-based features.
-- Focused on becoming a stronger full stack MERN developer with production-level frontend depth and solid backend engineering skills.
+<br/>
 
-## Current Focus
+## 🛠️ Tech Stack
 
-- Building clean, scalable full stack applications
-- Improving backend architecture and API design skills
-- Writing modular, maintainable, product-focused code
-- Growing from frontend-heavy developer to well-rounded MERN stack engineer
+<div align="center">
 
-## Tech Stack
+**Frontend**
 
-### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux&perline=8" />
 
-`HTML5` `CSS3` `JavaScript` `TypeScript` `React.js` `Next.js` `Tailwind CSS` `Shadcn UI` `React Hook Form` `Yup` `React Router DOM` `Axios` `TanStack Query` `Redux Toolkit` `Chart.js` `GSAP` `Lucide React` `React Icons`
+**Backend & Realtime**
 
-### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,socketio&perline=8" />
 
-`Node.js` `Express.js` `JWT` `Bcryptjs` `CORS` `Dotenv` `Mongoose` `Redis` `Socket.io`
+**Database, BaaS & Tools**
 
-### Database & Services
+<img src="https://skillicons.dev/icons?i=supabase,firebase,git,github,vscode,postman,cloudinary&perline=8" />
 
-`MongoDB Atlas` `Supabase` `Firebase` `Cloudinary`
+</div>
 
-### Tools
+<br/>
 
-`Git` `GitHub` `VS Code` `Prettier`
+## 🎯 Current Focus
 
-## What I Build
+| Frontend Depth | Backend Growth | Practice |
+|---|---|---|
+| Modular architecture, GSAP-driven UI, Shadcn UI | Auth flows, REST APIs, Redis, Socket.io | Daily DSA problem-solving |
 
+<br/>
+
+## 💼 What I Build
+
+<table>
+<tr>
+<td width="50%">
+
+**Products**
 - Admin dashboards with modular architecture
 - Full stack MERN applications
-- Authentication and role-based systems
-- Reusable component-based frontend systems
-- Real-time features with sockets
-- Responsive business and portfolio websites
+- Auth & role-based access systems
+- Real-time features with Socket.io
 
-## Working Style
+</td>
+<td width="50%">
 
+**Approach**
 - Clean, readable, minimal code
 - Reusable components over duplication
-- Service-layer separation for APIs and Firebase logic
+- Service-layer separation (APIs / Firebase)
 - Custom hooks for scalable data fetching
-- Practical solutions instead of overcomplicated abstractions
 
-## Connect With Me
+</td>
+</tr>
+</table>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/israr-ahmad-tech" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://github.com/israrahmadtech" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="40" />
-  </a>
-  <a href="mailto:israrahmadtech@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/gmail" alt="Email" height="30" width="40" />
-  </a>
-</p>
+<br/>
 
-## Profile Summary
+## 📌 Featured Projects
 
-I build practical web products with a strong frontend foundation and a growing backend mindset. My goal is to keep shipping polished user experiences while strengthening APIs, databases, and system design to become a high-value full stack MERN developer.
+<div align="center">
+
+<a href="https://cetcars.com">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=israrahmadtech&repo=car-rental-admin-panel&theme=radical&hide_border=true" />
+</a>
+<a href="https://penitans.com">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=israrahmadtech&repo=Penitans&theme=radical&hide_border=true" />
+</a>
+
+<a href="https://localcaregiver.net">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=israrahmadtech&repo=Local-Caregiver&theme=radical&hide_border=true" />
+</a>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=israrahmadtech&repo=MERN-Stack-Next-js-Road-Map&theme=radical&hide_border=true" />
+
+> ⚠️ Update the `repo=` values above to match your **exact** repository names on GitHub.
+
+</div>
+
+**CetCars** — Car Rental SaaS (`React` `Supabase`) — Multi-module Admin + Super Admin panel, dynamic contracts, auto-calculated payments, cascading deletes, RBAC.
+
+**Penitans** — Spiritual & Wellness Platform (`React` `TypeScript` `Firebase`) — Fixed 100+ frontend bugs across Seeker & Practitioner apps, real-time chat, booking flows.
+
+**Local Caregiver** — Caregiver Marketplace (`React` `Vite` `Tailwind v4`) — Complete UI redesign for a community caregiving platform.
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=israrahmadtech&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israrahmadtech&layout=compact&theme=radical&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=israrahmadtech&theme=radical&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=israrahmadtech&theme=redical&hide_border=true" />
+
+</div>
+
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=israrahmadtech&theme=radical&no-frame=true&row=1&column=7" />
+</div>
+
+<br/>
+
+## 🤝 Connect With Me
+
+<div align="center">
+<a href="https://www.linkedin.com/in/israr-ahmad-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35" width="45" /></a>
+<a href="https://github.com/israrahmadtech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" width="45" /></a>
+<a href="mailto:israrahmadtech@gmail.com"><img src="https://cdn.simpleicons.org/gmail/D14836" height="35" width="45" /></a>
+</div>
+
+<br/>
+
+<div align="center">
+<i>Building practical web products with a strong frontend foundation — while strengthening APIs, databases, and system design to become a high-value full stack MERN developer.</i>
+</div>
